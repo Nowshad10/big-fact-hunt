@@ -1,5 +1,7 @@
 # The Big Fact Hunt - LAP 3 Project
 
+#### The deployed website can be found [here](https://big-fact-hunt.netlify.app)
+
 ### Contributors
 - [Alex Patient](https://github.com/apatient97)
 - [Ikenna Agada](https://github.com/ikenna98)
@@ -25,10 +27,12 @@ The aim of this group project was to create an online quiz application using Rea
 - JavaScript
 - HTML/CSS
 - Netlify
+- Socket.io Client
 
 ### Back-End
 - JavaScript
 - Node/Express
 - PostgreSQL
 - Heroku
+- Socket.io
 
